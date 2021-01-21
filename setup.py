@@ -10,7 +10,7 @@ VENV = os.path.join(ROOT, '.venv')
 VENV_LINK = os.path.join(VENV, 'local')
 
 install_requires = [
-    'django>=1.5.0',
+    'django>=1.11.0',
 ]
 
 
